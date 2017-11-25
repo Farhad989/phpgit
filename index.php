@@ -5,3 +5,6 @@ function my(){
 function aa(){
     echo 'hello';
 }
+function bb(){
+    
+}
